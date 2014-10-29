@@ -1,0 +1,9 @@
+Changelog:
+
+ - April 16 2009 : Compiled new package for download. Still planning on finished this.
+
+ - Dec 20 2007 : Added version numbering, currently released 0.2
+	- Added unicode support (by Dhillip89)
+	
+ - Dec 19 2007 : Second version released
+ - Dec 18 2007 : Beta released

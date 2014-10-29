@@ -1,0 +1,13 @@
+To-Do list:
+- /away, /brb appends |Away to your current nickname. Needs no special support for polling other users for their state.
+- /back removes |Away from your nickname. Typing a sentance in a non-empty channel changes your name back too.
+- Add a /help command, that lists commands
+- Double click a user, and get CTCP information about him
+- Respond to CTCP version requests
+- Add support for private messages, display them in the channel window
+- New design philosophy, using a tabbed layout instead of a windowed layout (Google Chrome style)
+- Create a non-portable version of TrayIRC, that uses an installer. Can clone itself to a portable version in a new directory. (Copy exe and write ini file)
+
+Idea list:
+- /msg other users: /msg Nick Hey what's up?!
+- Chat logging
